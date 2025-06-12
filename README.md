@@ -47,6 +47,6 @@ VS Code (for development)
 *Outcome* :
 This project demonstrates my ability to combine API handling, data processing, and visual storytelling, enabling users to gain insights from real-time weather data in a meaningful and interactive way.
 
-#OUTPUT :
+# OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/2d9c4fd8-fe8f-443d-b0e2-6f11e01a1436)
